@@ -1,4 +1,4 @@
-**Python Automation Tasks Collection**
+### **Python Automation Tasks Collection**
 
 Welcome to the **Python Automation Tasks** repository!  
 This is a curated collection of various Python automation scripts designed to simplify repetitive and time-consuming tasks. Each script is modular, well-documented, and easy to execute.
