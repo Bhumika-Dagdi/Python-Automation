@@ -1,0 +1,12 @@
+paramiko
+pywhatkit
+smtplib
+email
+twilio
+serpapi
+tweepy
+requests
+bs4
+gradio
+numpy 
+cv2
