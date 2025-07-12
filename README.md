@@ -44,7 +44,8 @@ pip install -r requirements.txt
 
 ---
 
-🧪 Usage
+### 🧪 Usage
+
 Each task can be run independently. For example:
 ```bash
 python whatsapp_sender.py
