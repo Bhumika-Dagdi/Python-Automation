@@ -42,11 +42,15 @@ cd your-repo-name
 pip install -r requirements.txt
 ```
 
+---
+
 🧪 Usage
 Each task can be run independently. For example:
 ```bash
 python whatsapp_sender.py
 ```
+
+---
 
 ### 📋 Requirements
 
@@ -63,11 +67,13 @@ Common libraries:
 • bs4, requests, serpapi
 
 
+---
 
 ### 🙌 Contribution
 
 Feel free to fork this repository and submit a pull request with improvements or new automation ideas!
 
+---
 
 ### 👤 Author
 
