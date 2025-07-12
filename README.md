@@ -48,24 +48,36 @@ Each task can be run independently. For example:
 python whatsapp_sender.py
 ```
 
-📋 Requirements
+### 📋 Requirements
+
 All dependencies are listed in requirements.txt.
 
 Common libraries:
+
 • gradio
+
 • opencv-python, cv2
+
 • twilio, pywhatkit, tweepy
+
 • bs4, requests, serpapi
 
 
-🙌 Contribution
+
+### 🙌 Contribution
+
 Feel free to fork this repository and submit a pull request with improvements or new automation ideas!
 
 
-👤 Author
-Bhumika Dagdi
+### 👤 Author
+
+**Bhumika Dagdi**
+
 🎓 Final Year B.Tech (CS-AI), SKIT Jaipur
+
 📫 Email: bhumikadagdi@gmail.com
-🌐 GitHub: github.com/Bhumika-Dagdi
-🔗 LinkedIn: linkedin.com/in/bhumika-dagdi
+
+🌐 GitHub: [github.com/Bhumika-Dagdi](https://github.com/Bhumika-Dagdi)
+
+🔗 LinkedIn: [linkedin.com/in/bhumika-dagdi](https://linkedin.com/in/bhumika-dagdi)
 
