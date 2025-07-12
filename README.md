@@ -25,6 +25,7 @@ This repo includes the following automation tasks (you can modify this list base
 - ✅ Image processing (drawing, face swap)
 - ✅ Anonymous email sending
 - ✅ Gradio-based UI for interaction
+- ✅ Linux commands via SSH from Windows
 
 ---
 
@@ -49,6 +50,13 @@ pip install -r requirements.txt
 Each task can be run independently. For example:
 ```bash
 python whatsapp_sender.py
+```
+
+For running linux commands:
+```bash
+Enter the remote IP address: 
+Enter the SSH username: 
+Enter the SSH password:
 ```
 
 ---
