@@ -90,7 +90,7 @@ Feel free to fork this repository and submit a pull request with improvements or
 
 🎓 Final Year B.Tech (CS-AI), SKIT Jaipur
 
-📫 Email: bhumikadagdi@gmail.com
+📫 Email: bhumikadagdi99@gmail.com
 
 🌐 GitHub: [github.com/Bhumika-Dagdi](https://github.com/Bhumika-Dagdi)
 
